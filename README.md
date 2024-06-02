@@ -1,7 +1,7 @@
 # IMPS
 Variable Impedance Selector  
 
-![]()
+![](https://raw.githubusercontent.com/HTangl/IMPS/main/Pictures/IMG20231104193532.jpg)
 
 The IMPS is a simple pcb made to allow switching between different sets of resistors to emulate output impedance. It was made to facilitate easy testing of impedance effects on headphones and iems.  
 
