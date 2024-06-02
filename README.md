@@ -18,5 +18,5 @@ https://a.co/d/fRi1UGk
 This needs to have surface mount pins not through hole legs as the holes on the PCB were not designed to fit those  
 https://a.co/d/1c0tU72  
 
-1 - 3.5mm to 3.5mm cable  
+1 - 3.5mm male to 3.5mm male cable  
 For connecting the IMPS input to desired source device
